@@ -33,7 +33,7 @@ header{
   overflow:hidden;
 }
 #main1{
-  background-color:navy blue;
+  background-color:navy;
   width:500px;
   float:left;
 }
@@ -51,7 +51,7 @@ aside{
   right:10px;
 }
 footer{
-  background-color:yellow green;
+  background-color:greenyellow;
   clear:both;
 }
 #good_picture{
