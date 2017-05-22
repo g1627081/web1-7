@@ -11,6 +11,12 @@ body{
 header{
   background-color:yellow;
 }
+#main{
+  background-color:white;
+  width:calc(100%-200%px);
+  min-width:500px;
+  float:left;
+}
 #main1{
   background-color:navy blue;
   width:500px;
