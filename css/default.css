@@ -12,15 +12,22 @@ header{
   background-color:yellow;
 }
 #main1{
-  background-color:blue;
+  background-color:navy blue;
+  width:500px;
+  float:left;
 }
 #main2{
   background-color:red;
+  width:500px;
+  float:left;
 }
 aside{
   background-color:purple;
+  width:200px;
+  float:right;
 }
 footer{
-  background-color:green;
+  background-color:yellow green;
+  clear:both;
 }
   
